@@ -1,4 +1,4 @@
-Explanation
+## Explanation
 
     Headers:
         <iostream> for input and output.
@@ -17,7 +17,7 @@ Explanation
 
 This C++ program should produce the same output as my Java program call PLLCalc.
 
-how to run:
+## how to run:
  g++ -std=c++11 -o pll_calc pll_calc.cpp  
  ./pll_calc
 
